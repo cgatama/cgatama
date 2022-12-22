@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science/ ML, AI and DeepLearning Projects
 - 📫 How to reach me [c.gatama@gmail.com]
 
+## Below is my Data Science/ ML and Data Specialist Profile
 - Here are Links to my favorite Data Science projects using real-world data and problems/ scenerio;
   - Predict if SpaceX Falcon 9 first stage will land successfully after rocket launches. [SpaceX landing Prediction](https://github.com/cgatama/SpaceX-Falcon-9-1st-stage-Success-Landing-Prediction/)
   - Data Analysis with Python of House Sales in [King County, USA](https://github.com/cgatama/7-Data-Analysis-with-Python/tree/main/6%20House%20Sales%20in%20King%20County%20Assignment)
